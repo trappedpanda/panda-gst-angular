@@ -1,0 +1,20 @@
+.container{
+    border-radius: 5px;
+}
+.row{
+    padding: 5px 10px 5px 10px;
+}
+h1{
+    text-align: center;
+}
+.container2{
+    padding: 40px 40px 40px 350px;
+}
+.container1{
+    padding: 20px 5px 20px 5px;
+    background: rgba(235, 251, 233, 0.74);
+    border: 1px solid #ccc;
+}
+.container3{
+    text-align: center;
+}
